@@ -3,5 +3,7 @@ A simple game using C++ and Freeglut where a small snake appears which needs to 
 
 
 # Procedure of Using
-Extract the snake_game.zip file. Open the main.cpp file with codeblocks then click on build and run and Enjoy the game
+1.Extract the snake_game.zip file.
+2. Install freeglut ( included with the file )
+3.Open the main.cpp file with codeblocks then click on build and run and Enjoy the game
 
